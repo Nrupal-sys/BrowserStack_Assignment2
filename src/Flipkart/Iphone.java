@@ -148,3 +148,12 @@ public class Iphone {
 	}
 
 }
+
+//2. Create PR (Push and Pull Request) with the changes to the script
+
+//Master Branch created successfully and all the changes are pushed upstream.
+//https://github.com/Nrupal-sys/BrowserStack_Assignment2.git
+
+//Pull Request created successfuly.  From  Git Repo >>Origin >> Config Fetch 
+
+
