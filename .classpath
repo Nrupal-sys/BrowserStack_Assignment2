@@ -16,5 +16,6 @@
 	<classpathentry kind="lib" path="lib/selenium-java.jar"/>
 	<classpathentry kind="lib" path="lib/testng-6.0.jar"/>
 	<classpathentry kind="lib" path="lib/webdriver-remote-server-0.9.7376.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-standalone-3.141.59 (2).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
